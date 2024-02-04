@@ -9,10 +9,12 @@ You need to install them on your respective system
 
 
 How to compile
+
 ```gcc datetime_json_api.c -o datetime_json_api -lmicrohttpd ```
 
 How to run
-`./datetime_json_api`
+
+```./datetime_json_api```
 
 Go to your browser of choice and use below as example
 
